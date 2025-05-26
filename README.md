@@ -35,9 +35,13 @@ A passionate **Full Stack Web Developer 🎯** and **Tech Architect 🎨** from 
 ---
 
 ## 🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitdecodes)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mohit_decodes)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohit.djcet@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohitdecodes@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/mohitdjcet)
+[![TopMate](https://img.shields.io/badge/-TopMate-2e7d32?style=flat&logo=buymeacoffee&logoColor=white)](https://topmate.io/mohitdecodes)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6CABUIHphQqGRYP71u)
 
 ---
 
