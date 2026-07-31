@@ -126,12 +126,5 @@ Building scalable web applications, AI-powered products, and helping thousands o
 ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 ![pnpm](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)
 
----
-
-# 📊 GitHub Stats
-
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitdjcet&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitdjcet&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohitdjcet&theme=tokyonight)
+--- 
+🔔 _Let’s build something awesome together!_"change or addd more languages git git hub
