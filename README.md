@@ -1,29 +1,16 @@
-# 👋 Hi there, I'm Mohit Kumar
-
-<h3 align="center">
-Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer • Content Creator
-</h3>
+<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered solutions, and helping developers grow through practical, real-world learning.
+Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 </p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Tech+Architect;Corporate+Trainer;YouTube+Educator;Open+Source+Contributor" />
+</p>
 
-# 🚀 About Me
-
-- 💻 Full Stack Developer specializing in **MERN & MEAN Stack**
-- 🐍 Python Backend Developer with **Django, Flask & FastAPI**
-- 🤖 AI Engineer experienced in **LLMs, AI Agents, LangChain, LangGraph, MCP, RAG & GraphRAG**
-- 🧠 Strong expertise in **Artificial Intelligence, Machine Learning, Data Analytics & Power BI**
-- 📈 Strong foundation in **Data Structures & Algorithms (DSA)**
-- 🌐 Experienced with **Laravel, PHP, WordPress & Modern Web Technologies**
-- ⚡ Skilled in designing **Scalable, Secure & High-Performance Applications**
-- ☁️ Hands-on experience with **Docker, Git, GitHub, Linux, REST APIs & Cloud Deployment**
-- 👨‍🏫 Corporate Trainer with **13+ Years of Industry Experience**
-- 🎥 Creator of **Mohit Decodes**, sharing Web Development, AI, System Design & Career Guidance
-- 🎙 Freelance Voice Over Artist
-- 💡 Passionate about Open Source, Software Architecture, Clean Code, and Developer Education
+<p align="center">
+<img src="assets/terminal-profile.png" width="100%" />
+</p>
 
 ---
 
