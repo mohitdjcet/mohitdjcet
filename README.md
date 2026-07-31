@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohit Kumar
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer • Content Creator
+Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer • Content Creator
 </h3>
 
 <p align="center">
