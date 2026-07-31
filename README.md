@@ -51,7 +51,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,go,rust,kotlin,swift"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,go,rust,kotlin,swift" width="520" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,angular,redux,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,angular,redux,vite" width="450" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,laravel"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,laravel" width="380" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" width="260" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,nginx,vercel,netlify"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,nginx,vercel,netlify" width="420" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 # 🛠️ Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,bun,npm,pnpm"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bun,npm,pnpm" width="320" />
 </p>
 
 ---
