@@ -125,25 +125,9 @@ Passionate about building scalable web applications, AI-powered solutions, and h
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitdjcet&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohitdjcet&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
 # 💬 Quote
 
-> **"Code with purpose. Build with passion. Keep learning. Keep sharing." 🚀**
+> **"Code with purpose. Build with passion. Keep learning. Keep sharing."**
 
 ---
 
