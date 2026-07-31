@@ -12,14 +12,15 @@ Building scalable web applications, AI-powered products, and helping thousands o
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer (MERN + MEAN)
-- 🐍 Python Developer (Django, Flask, FastAPI)
-- 🤖 AI & Automation Enthusiast
-- 🎥 YouTube Educator at **Mohit Decodes**
-- 🎙 Freelance Voice Over Artist
-- 👨‍🏫 Corporate Trainer
-- 💡 Love building products that solve real-world problems
-- 🌱 Currently learning **AI Agents, LangChain, MCP, RAG, GraphRAG**
+- 💼 Full Stack Developer specializing in **MERN & MEAN Stack**
+- 🐍 Backend Developer with **Python (Django, Flask & FastAPI)**
+- 🤖 AI Engineer passionate about **AI Agents, LLMs, RAG, GraphRAG, LangChain & MCP**
+- 📊 Currently exploring **Artificial Intelligence, Machine Learning, Data Analytics & Power BI**
+- 📚 Strengthening problem-solving skills with **Data Structures & Algorithms (DSA)**
+- 🌐 Building modern web applications using **Laravel & PHP**
+- 🎥 Creator of **Mohit Decodes**, helping thousands of developers learn Web Development & AI
+- 👨‍🏫 Corporate Trainer with **13+ years of professional experience**
+- 🚀 Passionate about Open Source, Clean Architecture, Scalable Systems & Developer Education
 
 ---
 
