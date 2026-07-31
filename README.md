@@ -16,10 +16,10 @@ A passionate **Full Stack Web Developer 🎯** and **Tech Architect 🎨** from 
 
 ## 📫 How to Reach Me
 
-- 📸 Instagram: [@mohit_decodes](https://instagram.com/mohit_decodes)  
+- 📸 Instagram: [@mohit_decodes](https://instagram.com/mohitdecodes)  
 - 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mohitdecodes)  
 - 🌐 Website: [mohitdecodes.com](https://mohitdecodes.com)  
-- 📧 Email: mohit.djcet@gmail.com  
+- 📧 Email: mohitdecodes@gmail.com  
 
 ---
 
