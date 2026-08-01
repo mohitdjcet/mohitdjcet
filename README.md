@@ -5,7 +5,7 @@ Full Stack Developer • AI Engineer • Tech Architect • Corporate Trainer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Tech+Architect;Corporate+Trainer;YouTube+Educator;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;YouTuber;Tech+Teacher;AI+Engineer;Tech+Architect;Corporate+Trainer;YouTube+Educator;Open+Source+Contributor" />
 </p>
 
 <p align="center">
